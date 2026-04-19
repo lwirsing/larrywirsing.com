@@ -1,6 +1,6 @@
 # larrywirsing.com
 
-Source for [larrywirsing.com](https://larrywirsing.com) — a static, three-page portfolio site for Larry Wirsing.
+Source for [larrywirsing.com](https://larrywirsing.com) — a static, two-page portfolio site for Larry Wirsing.
 
 ## Stack
 
@@ -12,7 +12,6 @@ Hand-authored static HTML + a single CSS file. No build step, no frameworks, no 
 .
 ├── index.html              # About / landing
 ├── resume.html             # Résumé walkthrough
-├── media.html              # Media coverage
 ├── 404.html                # Branded not-found page
 ├── styles.css              # Single stylesheet (design tokens, fluid type, print)
 ├── favicon.svg             # LW monogram favicon
@@ -20,7 +19,7 @@ Hand-authored static HTML + a single CSS file. No build step, no frameworks, no 
 ├── sitemap.xml
 ├── CNAME                   # Custom apex domain
 ├── assets/
-│   └── Larry_Wirsing_Resume_2025.pdf
+│   └── Larry_Wirsing_Resume_2026.pdf
 └── .github/workflows/
     └── deploy.yml          # GitHub Pages via Actions
 ```
