@@ -1,0 +1,10 @@
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+
+# Node (only used by CI linters)
+node_modules/
+npm-debug.log*
